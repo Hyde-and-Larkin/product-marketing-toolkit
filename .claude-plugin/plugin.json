@@ -1,0 +1,12 @@
+{
+  "name": "product-marketing-toolkit",
+  "version": "0.1.0",
+  "description": "Product marketing skills for AI agents: competitive intel, positioning review, claims audit, launch readiness, enablement, messaging, battlecards, and discovery.",
+  "author": {
+    "name": "Hyde & Larkin",
+    "url": "https://hydelarkin.com"
+  },
+  "homepage": "https://github.com/hyde-larkin/product-marketing-toolkit",
+  "license": "CC-BY-4.0",
+  "keywords": ["product-marketing", "pmm", "gtm", "positioning", "competitive-intelligence", "launch", "sales-enablement"]
+}
