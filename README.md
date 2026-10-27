@@ -34,7 +34,7 @@ Skills chained into real workflows: [launch a feature](playbooks/launch-a-featur
 **Claude Code (as a plugin):**
 
 ```
-/plugin marketplace add hyde-larkin/product-marketing-toolkit
+/plugin marketplace add Hyde-and-Larkin/product-marketing-toolkit
 /plugin install product-marketing-toolkit@product-marketing-toolkit
 ```
 
@@ -43,7 +43,7 @@ The plugin installs the skills, not your context. Copy this repo's `context/` fo
 **Any agent that reads a folder (Claude Code, Cursor, Codex, Copilot):**
 
 ```
-git clone https://github.com/hyde-larkin/product-marketing-toolkit.git
+git clone https://github.com/Hyde-and-Larkin/product-marketing-toolkit.git
 ```
 
 Open the folder in your tool and say: *"Read AGENTS.md, then run positioning-review on [our homepage URL]."*

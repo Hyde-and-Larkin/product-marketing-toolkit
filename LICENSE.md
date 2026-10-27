@@ -8,4 +8,4 @@ You are free to share and adapt this material for any purpose, including commerc
 
 Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
 
-Suggested attribution: "Based on the Product Marketing Toolkit by Hyde & Larkin (github.com/hyde-larkin/product-marketing-toolkit), CC BY 4.0."
+Suggested attribution: "Based on the Product Marketing Toolkit by Hyde & Larkin (github.com/Hyde-and-Larkin/product-marketing-toolkit), CC BY 4.0."

@@ -18,7 +18,7 @@ Start with `company.md`, `positioning.md`, and `icp.md`. Rough is fine. You can 
 Install as a plugin:
 
 ```
-/plugin marketplace add hyde-larkin/product-marketing-toolkit
+/plugin marketplace add Hyde-and-Larkin/product-marketing-toolkit
 /plugin install product-marketing-toolkit@product-marketing-toolkit
 ```
 
