@@ -5,7 +5,7 @@ description: "Write discovery questions that surface real pain: SPIN-style situa
 
 # Discovery Question Generator
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `/context` (ICP/personas, objections, and competitors). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `context/` (ICP/personas, objections, and competitors). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
 
 A systematic approach to building discovery questions that uncover customer pain points, build urgency, and guide prospects toward your solution.
 
@@ -66,10 +66,10 @@ Based on SPIN selling methodology, adapted for SaaS product marketing.
 ```
 
 **Examples:**
-- "Walk me through how you currently manage your marketing channels?"
-- "How do you currently reach customers when you need immediate action?"
-- "What tools are you using today for customer communication?"
-- "How are you managing messaging for different brands or product lines?"
+- "Walk me through how you handle [the job] today, start to finish?"
+- "What tools are you using today for [function]?"
+- "Who else touches this process?"
+- "How does this work across different teams, brands, or product lines?"
 - "What does your team's workflow look like for creating campaigns?"
 
 **Best Practices:**
@@ -218,7 +218,7 @@ Based on SPIN selling methodology, adapted for SaaS product marketing.
 ```
 
 **Examples:**
-- "How easy is it to see which channel actually drove each sale?"
+- "How easy is it to see whether [current solution] is actually working?"
 - "Do you find yourself juggling multiple logins and platforms?"
 - "How responsive is your current provider when you need support?"
 - "What would you change about your current pricing model if you could?"
@@ -232,6 +232,8 @@ Based on SPIN selling methodology, adapted for SaaS product marketing.
 - Follow up based on their reaction
 
 ## Discovery by Customer Segment
+
+> **Worked example.** The segment questions below were written for a customer-messaging product (reminders, notifications, promotions). Use them as a pattern: swap in the jobs your product does for each segment you sell to.
 
 ### E-Commerce Businesses
 

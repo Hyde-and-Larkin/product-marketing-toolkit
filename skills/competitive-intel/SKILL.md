@@ -5,7 +5,7 @@ description: "Research one or more competitors and produce a sourced Competitive
 
 # Competitive Intel Brief Builder
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read `/context/competitors.md`, `/context/positioning.md`, and `/context/icp.md` if they exist. They tell you who "we" are, which matters for the positioning and traps sections.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read `context/competitors.md`, `context/positioning.md`, and `context/icp.md` if they exist. They tell you who "we" are, which matters for the positioning and traps sections.
 
 Turns raw competitive signal into a brief a PMM, founder, or seller can act on, without treating unverified synthesis as fact.
 
@@ -35,7 +35,7 @@ Ask for whatever's missing before starting:
 - Buyer segment (SMB, mid-market, enterprise)
 - Sales motion (self-serve, sales-assisted, enterprise)
 
-If two or more of these are missing and `/context` doesn't answer them, ask before researching. A brief built on a guessed ICP or a guessed sales motion doesn't hold up when someone tries to use it.
+If two or more of these are missing and `context/` doesn't answer them, ask before researching. A brief built on a guessed ICP or a guessed sales motion doesn't hold up when someone tries to use it.
 
 ## Process
 

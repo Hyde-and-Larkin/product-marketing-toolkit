@@ -13,7 +13,7 @@ The skills in the order a launch actually needs them.
 
 ## Prompt to start
 
-> We're launching [feature] on [date]. Read `/context`, then follow `playbooks/launch-a-feature.md`. Stop after each step so I can review before you continue.
+> We're launching [feature] on [date]. Read `context/`, then follow `playbooks/launch-a-feature.md`. Stop after each step so I can review before you continue.
 
 ## Tier shortcuts
 

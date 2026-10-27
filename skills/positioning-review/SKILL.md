@@ -5,7 +5,7 @@ description: "Review a homepage, pitch deck, launch doc, one-pager, or positioni
 
 # Positioning Review
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** If `/context/positioning.md`, `/context/icp.md`, and `/context/competitors.md` exist, read them first and review the artifact against them. If they don't, review the artifact on its own terms and say so in the header.
+> **Part of the [Product Marketing Toolkit](../../README.md).** If `context/positioning.md`, `context/icp.md`, and `context/competitors.md` exist, read them first and review the artifact against them. If they don't, review the artifact on its own terms and say so in the header.
 
 AI makes it cheap to produce marketing copy. It doesn't make the copy say anything. This skill is the review step: does the thing actually tell a specific buyer why this product, over the alternatives, right now?
 
@@ -33,7 +33,7 @@ Use the structure in `output-template.md`.
 3. **Score each dimension in `rubric.md`.** Quote the specific line that drove each score. No score without evidence.
 4. **Find the claims.** List every claim the artifact makes and whether it has proof attached. For a deep pass, hand the list to the `claims-proof-audit` skill.
 5. **Rank fixes by impact, not by count.** A vague headline beats ten weak bullet points. Three fixes, maximum.
-6. **Rewrite, don't just critique.** Each fix gets a before/after. Rewrites must use only facts present in the artifact or `/context`. Where a rewrite needs a fact you don't have, use a bracketed placeholder: `[the number of hours saved, from customer data]`.
+6. **Rewrite, don't just critique.** Each fix gets a before/after. Rewrites must use only facts present in the artifact or `context/`. Where a rewrite needs a fact you don't have, use a bracketed placeholder: `[the number of hours saved, from customer data]`.
 
 ## Guardrails
 

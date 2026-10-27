@@ -4,7 +4,7 @@
 
 - Artifact reviewed (name, URL, date):
 - Format and job (homepage, deck, launch post, pitch, positioning statement):
-- Assumed audience (from `/context` or inferred; say which):
+- Assumed audience (from `context/` or inferred; say which):
 
 ## Verdict
 

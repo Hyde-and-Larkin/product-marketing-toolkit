@@ -5,7 +5,7 @@ description: "Build layered, modular messaging: category/vision, problem, produc
 
 # Messaging Framework Builder
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `/context` (company, positioning, ICP, voice, and proof library). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `context/` (company, positioning, ICP, voice, and proof library). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
 
 A systematic approach to building compelling product messaging through layered frameworks, pain-to-platform mapping, and validated claims.
 

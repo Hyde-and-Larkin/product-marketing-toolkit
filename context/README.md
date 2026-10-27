@@ -21,4 +21,4 @@ This is the part most AI setups skip, and it's the part that matters most. A ski
 - **Date things.** Positioning drifts. Put a "last reviewed" date at the top of each file.
 - **Keep it private.** If you fork this repo publicly, make a private copy for your filled-in context. These templates are public; your positioning shouldn't be.
 
-You can also ask your agent to draft these for you: "Read our website and last ten call transcripts, then fill in `/context/icp.md` and `/context/objections.md`. Mark anything you inferred."
+You can also ask your agent to draft these for you: "Read our website and last ten call transcripts, then fill in `context/icp.md` and `context/objections.md`. Mark anything you inferred."

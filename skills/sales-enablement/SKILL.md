@@ -5,7 +5,7 @@ description: "Turn positioning and launch context into sales-ready assets: produ
 
 # Sales Enablement Packager
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `/context` (positioning, objections, proof library, and the launch tier). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `context/` (positioning, objections, proof library, and the launch tier). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
 
 A systematic framework for creating, packaging, and delivering sales enablement assets that equip teams to sell effectively.
 

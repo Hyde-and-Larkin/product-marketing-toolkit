@@ -5,7 +5,7 @@ description: "Build a sales-facing competitive battlecard for one competitor: qu
 
 # Competitive Battlecard Creator
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `/context` (competitors file and the latest competitive-intel brief). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `context/` (competitors file and the latest competitive-intel brief). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
 
 A systematic framework for building competitive battlecards that help sales teams win against specific competitors through clear differentiation and strategic positioning.
 
@@ -94,7 +94,7 @@ Proof: [Data point or customer quote]
 **Unified Platform**
 We: One platform that holds the workflow and the customer data together
 They: Point tool that needs a separate login and its own copy of the data
-Impact: Reduces "swivel-chair" work and provides clear multi-channel attribution
+Impact: Less "swivel-chair" work between tools, and one place to see what's working
 Proof: "If [Your Company] would have had it - we would have used it." - Customer quote from switcher
 ```
 
@@ -114,7 +114,7 @@ Questions designed to surface dissatisfaction with the competitor
 
 *Examples:*
 - "How much time does your team spend moving work between [their tool] and the rest of your stack?"
-- "How do you currently track which channel actually drove the sale?"
+- "How do you currently see whether [the job your product does] is actually working?"
 - "What's your process when you need support for a technical issue?"
 - "How predictable are your costs month-to-month?"
 
@@ -203,7 +203,7 @@ Questions that naturally lead to your strengths
 *Example Set:*
 ```
 Current State:
-"Walk me through how you manage your marketing channels today?"
+"Walk me through how you handle [the job your product does] today?"
 
 Pain Point:
 "What's the biggest challenge you face with your current setup?"
@@ -259,7 +259,7 @@ Customers who switched from this competitor
 - "How often do you get the support you need when you need it?"
 - "What was your experience with their last price increase?"
 
-### Point Solution Competitors (Single-Channel Tools)
+### Point Solution Competitors (Single-Job Tools)
 
 **Positioning Strategy:** Consolidation & Efficiency
 
@@ -271,13 +271,13 @@ Customers who switched from this competitor
 
 **Winning Themes:**
 - "Unified platform" - everything in one place
-- "Clear attribution" - know what's working
+- "Clear visibility" - know what's working
 - "Simplified workflow" - no swivel-chair work
 
 **Trap-Setting Questions:**
 - "How much time do you spend switching between platforms?"
-- "Can you clearly see which channel drove each sale?"
-- "What's your total spend across all your marketing tools?"
+- "Can you see the full picture without exporting to a spreadsheet?"
+- "What's your total spend across all the tools involved in this workflow?"
 
 ## Switcher-Specific Strategies
 
@@ -290,7 +290,7 @@ Customers who switched from this competitor
 
 **Point Solution Switchers**
 *Profile:* Came from a standalone point tool for this one job
-*Top Needs:* Unified management, clear attribution, transparent billing
+*Top Needs:* Unified management, clear visibility, transparent billing
 *Pain Points:* "Swivel-chairing," murky ROI, confusing pricing
 
 ### Switcher Battlecard Enhancements

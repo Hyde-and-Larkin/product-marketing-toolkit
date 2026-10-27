@@ -5,7 +5,7 @@ description: "Audit every claim in a piece of marketing or sales content: extrac
 
 # Claims + Proof Audit
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Read `/context/proof-library.md` first. It's the list of claims your team can back up, with sources. Anything not in it is unproven until someone shows otherwise.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Read `context/proof-library.md` first. It's the list of claims your team can back up, with sources. Anything not in it is unproven until someone shows otherwise.
 
 The most common weakness in AI-generated go-to-market work isn't tone. It's claims: vague benefits, numbers with no source, "industry-leading" with nothing behind it, and stats the model made up because the sentence wanted one. This skill finds them before a customer, a competitor, or a lawyer does.
 
@@ -22,7 +22,7 @@ Plus a short summary: how many claims ship as-is, need a fix, or should be cut, 
 
 1. **Extract every claim.** A claim is any statement a skeptical buyer could ask "says who?" about. That includes numbers, comparisons ("faster than"), superlatives ("leading," "only"), outcomes ("cuts churn"), and customer stories.
 2. **Classify each claim** using the types below.
-3. **Look for proof** in this order: `/context/proof-library.md`, material the user supplied, then public sources. Record where it came from.
+3. **Look for proof** in this order: `context/proof-library.md`, material the user supplied, then public sources. Record where it came from.
 4. **Run the checklist** (below) against each claim that has proof.
 5. **Assign a status:**
    - **Ship:** proof exists, is current, and matches the claim as written

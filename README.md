@@ -8,11 +8,11 @@ Most marketing skill packs teach agents channel tactics: ads, SEO, email. This o
 
 ## What's inside
 
-### Context (`/context`)
+### Context (`context/`)
 
 Fill-in templates for your product marketing source of truth: company, positioning, ICP and personas, voice, objections, proof library, competitors. Every skill reads these first, so your agent works from the same facts as your team. [Start here.](context/README.md)
 
-### Skills (`/skills`)
+### Skills (`skills/`)
 
 | Skill | What it does |
 |---|---|
@@ -25,7 +25,7 @@ Fill-in templates for your product marketing source of truth: company, positioni
 | [`battlecard`](skills/battlecard/SKILL.md) | One-competitor sales battlecard: why we win, traps, objection handling, switcher plays. |
 | [`discovery-questions`](skills/discovery-questions/SKILL.md) | SPIN-style discovery and trap-setting questions by segment, persona, and deal stage. |
 
-### Playbooks (`/playbooks`)
+### Playbooks (`playbooks/`)
 
 Skills chained into real workflows: [launch a feature](playbooks/launch-a-feature.md) and [respond to a competitor](playbooks/competitive-response.md).
 
@@ -38,6 +38,8 @@ Skills chained into real workflows: [launch a feature](playbooks/launch-a-featur
 /plugin install product-marketing-toolkit@product-marketing-toolkit
 ```
 
+The plugin installs the skills, not your context. Copy this repo's `context/` folder into the project you work in, or ask Claude to create it from the templates, so the skills have something to read.
+
 **Any agent that reads a folder (Claude Code, Cursor, Codex, Copilot):**
 
 ```
@@ -46,7 +48,7 @@ git clone https://github.com/hyde-larkin/product-marketing-toolkit.git
 
 Open the folder in your tool and say: *"Read AGENTS.md, then run positioning-review on [our homepage URL]."*
 
-**ChatGPT, Claude.ai, Gemini:** paste a skill's `SKILL.md` into a project's instructions, or upload it as a file, along with your filled-in `/context` files.
+**ChatGPT, Claude.ai, Gemini:** paste a skill's `SKILL.md` into a project's instructions, or upload it as a file, along with your filled-in `context/` files.
 
 More detail in [docs/how-to-use.md](docs/how-to-use.md).
 
@@ -55,7 +57,7 @@ More detail in [docs/how-to-use.md](docs/how-to-use.md).
 This is built for the setup where a marketing team keeps its AI knowledge in one shared repo:
 
 1. Use this repo as a template and make a **private** copy for your team.
-2. Fill in `/context` together. That's your shared source of truth.
+2. Fill in `context/` together. That's your shared source of truth.
 3. Everyone points their AI tool at the same repo. When someone improves a skill or updates the positioning, everyone gets it on the next pull.
 4. Every change has a history. When output starts sounding off, you can see what changed and roll it back.
 

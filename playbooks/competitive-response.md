@@ -12,7 +12,7 @@ A competitor launched, cut prices, or started showing up in more deals.
 
 ## Prompt to start
 
-> [Competitor] just [what happened]. Read `/context`, then follow `playbooks/competitive-response.md`. Start with the competitive-intel brief and stop for my review.
+> [Competitor] just [what happened]. Read `context/`, then follow `playbooks/competitive-response.md`. Start with the competitive-intel brief and stop for my review.
 
 ## Rule of thumb
 

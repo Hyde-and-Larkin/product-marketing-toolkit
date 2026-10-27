@@ -1,8 +1,7 @@
 {
   "name": "product-marketing-toolkit",
   "owner": {
-    "name": "Hyde & Larkin",
-    "url": "https://hydelarkin.com"
+    "name": "Hyde & Larkin"
   },
   "plugins": [
     {
@@ -11,5 +10,6 @@
       "description": "Product marketing skills for AI agents: competitive intel, positioning review, claims audit, launch readiness, enablement, messaging, battlecards, and discovery.",
       "version": "0.1.0"
     }
-  ]
+  ],
+  "description": "Product marketing skills for AI agents: competitive intel, positioning review, claims audit, launch readiness, enablement, messaging, battlecards, and discovery."
 }

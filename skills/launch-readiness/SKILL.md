@@ -5,7 +5,7 @@ description: "Plan and score a product or feature launch: pick a launch tier, bu
 
 # Launch Readiness Planner
 
-> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `/context` (launch brief, positioning, and any existing assets). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
+> **Part of the [Product Marketing Toolkit](../../README.md).** Before you start, read whatever exists in `context/` (company, positioning, and competitors, plus any launch brief or existing assets the user shares). If those files are empty or missing, ask for the essentials instead of guessing. Label anything you infer as an assumption, and never invent statistics, customer names, or quotes: use a bracketed placeholder like `[sourced metric, n, date]` instead.
 
 A comprehensive framework for planning, coordinating, and executing product launches with structured tiers, timelines, and checklists.
 
