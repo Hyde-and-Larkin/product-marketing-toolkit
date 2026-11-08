@@ -7,6 +7,9 @@
     "url": "https://hydelarkin.com"
   },
   "homepage": "https://github.com/Hyde-and-Larkin/product-marketing-toolkit",
+  "repository": "https://github.com/Hyde-and-Larkin/product-marketing-toolkit",
+  "supportUrl": "https://github.com/Hyde-and-Larkin/product-marketing-toolkit/issues",
+  "documentationUrl": "https://github.com/Hyde-and-Larkin/product-marketing-toolkit#readme",
   "license": "CC-BY-4.0",
   "keywords": ["product-marketing", "pmm", "gtm", "positioning", "competitive-intelligence", "launch", "sales-enablement"]
 }
